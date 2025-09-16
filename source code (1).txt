@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+
+{
+    printf("\n my name : kavya");
+    printf("\n my age : 16");
+    printf("\n my bday : 7/03/2009");
+    printf("\n my address : rajkumar college staff quarter ");
+
+    getch();
+
+}
